@@ -1,2 +1,2 @@
 # kolumlore.github.io
-my personal blogx
+my personal blog
